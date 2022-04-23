@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ife-Lyon
 - 👀 I’m interested in Coding, Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science project ideas
 - 📫 How to reach me ...
 
 <!---
